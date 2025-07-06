@@ -6,8 +6,8 @@ I hope this information will be helpful during your preparation, and I wish you 
 
 
 About the Exam
-    1. Number of Questions: 125
-    2. Test Duration: 4 Hours
-    3. Test Format: Multiple Choice Questions
-    4. Exam Prefix: 312-50 (ECC Exam), 312-50 (VUE)
-    5. Passing Score:	60% - 85%
+1. Number of Questions: 125
+2. Test Duration: 4 Hours
+3. Test Format: Multiple Choice Questions
+4. Exam Prefix: 312-50 (ECC Exam), 312-50 (VUE)
+5. Passing Score: 60% - 85%
