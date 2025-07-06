@@ -5,7 +5,7 @@ It’s possible that EC-Council has made minor changes or that the number of que
 I hope this information will be helpful during your preparation, and I wish you the best of luck in passing the exam successfully!
 
 
-## About the Exam
+About the Exam
     1. Number of Questions: 125
     2. Test Duration: 4 Hours
     3. Test Format: Multiple Choice Questions
