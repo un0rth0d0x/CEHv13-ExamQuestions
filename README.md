@@ -11,3 +11,8 @@ About the Exam
 3. Test Format: Multiple Choice Questions
 4. Exam Prefix: 312-50 (ECC Exam), 312-50 (VUE)
 5. Passing Score: 60% - 85%
+
+
+Useful linkks
+1. https://www.eccouncil.org/train-certify/ceh-assessment/
+2. https://ceh.cagy.org/
