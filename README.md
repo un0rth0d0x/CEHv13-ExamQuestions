@@ -18,3 +18,5 @@ I hope this information will be helpful during your preparation, and I wish you 
 <ins>Useful linkks</ins>
 1. https://www.eccouncil.org/train-certify/ceh-assessment/
 2. https://ceh.cagy.org/
+3. https://cybersecurityhoy.com/wp-content/uploads/2021/07/ceh-certified-ethical-hacker-practice-exams-fourth-edition.pdf
+4. https://elhacker.info/manuales/Hacking%20y%20Seguridad%20informatica/EC-Council.Certified.Ethical.Hacker.CEH.v12/CEH_v12_Certified_Ethical_Hacker_Study_Guide_-_Ric_Messier.pdf
